@@ -62,7 +62,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnathanael27&show_icons=true&locale=en" alt="Estatísticas GitHub" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnathanael27" alt="GitHub Streak" />
-</p>
